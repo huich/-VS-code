@@ -5,4 +5,6 @@
 5.Beautify:格式化文件
 6.Code Runner：代码调试
 7.Debugger For Chrome:断点调试
-8.
+8.ESLint:代码规范性检测
+9.TypeScript Hero:ts智能提示
+10.Visual studio Keymap:无缝连接vs
